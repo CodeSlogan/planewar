@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2c2d7d-397a-4be7-a6ba-ca04a47dfd7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/plane1.png" afterDir="false" />
-    </list>
+    <list default="true" id="ee2c2d7d-397a-4be7-a6ba-ca04a47dfd7d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,11 +114,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\some documents\计科\大三\Java\课设\info\planewar\screenshots" />
       <recent name="D:\some documents\计科\大三\Java\课设\info\v1\src\com\codeslogan" />
       <recent name="D:\some documents\计科\大三\Java\课设\info\v1\src\com\codeslogan\utils" />
       <recent name="D:\some documents\计科\大三\Java\课设\info\v1\src" />
       <recent name="D:\some documents\计科\大三\Java\课设\info\v1\lib" />
-      <recent name="D:\some documents\计科\大三\Java\课设\info\v1\imgs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\some documents\计科\大三\Java\课设\info\v1" />
@@ -212,7 +210,7 @@
       <workItem from="1639577674901" duration="290000" />
       <workItem from="1639577995587" duration="405000" />
       <workItem from="1639578446402" duration="359000" />
-      <workItem from="1640396024953" duration="6267000" />
+      <workItem from="1640396024953" duration="7026000" />
     </task>
     <servers />
   </component>

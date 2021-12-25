@@ -14,7 +14,7 @@ public class GameFrame extends JFrame {
     JMenuBar menuBar;
     JMenu menu1, menu2, mode;
     JMenuItem about, easyMode, diffMode, rankText, exitText, ruleText;
-    String selfIntroduction = "2019级计算机科学与技术4班\n学号：20196601310039\n姓名：陈仕林";
+    String selfIntroduction = "2019级计科x班\n学号：2019xxx\n姓名：CodeSlogan";
     String rule;
 
 
