@@ -13,27 +13,29 @@ MySQL 8.0
 游戏子系统包含了游戏对象（各个游戏对象的抽象父类），我方飞机对象，敌机对象，我方子弹对象，敌方子弹对象，爆炸对象，Boss对象，场景对象。通过获取玩家键盘事件，完成对飞机的移动。
 主页面模块我采用了三张logo的图片，设置变量及线程来使三张图片进行自动切换，达到了文字的动态效果。在主页面中，可以通过菜单栏的排行榜来查询得分排名，可以通过模式中的简单模式和困难模式，来改变游戏难度。同时提供了一个退出游戏结束进程的按钮。菜单栏具备了游戏规则查询功能，以及作者信息查询功能。</br>
 根据以上描述，我们可以得到如下系统模块图：</br>
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane1.png)
+
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane1.png" width="875">
 
 ## :zap:​ 游戏界面展示 
 
 ### 主页面
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane2.png)
+
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane2.png" width="475">
 
 ### 游戏中
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane3.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane3.png" width="475">
 
 ### 排行榜查看
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane4.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane4.png" width="475">
 
 ### 规则说明
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane5.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane5.png" width="475">
 
 ### 游戏成功
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane8.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane8.png" width="475">
 
 ### 游戏失败
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane7.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane7.png" width="475">
 
 ### 模式调整
-![function](https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane9.png)
+<img src="https://github.com/CodeSlogan/planewar/blob/main/screenshots/plane9.png" width="475">
